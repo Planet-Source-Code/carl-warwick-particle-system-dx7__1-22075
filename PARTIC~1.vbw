@@ -1,0 +1,7 @@
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modMain = 22, 22, 431, 304, Z
+mod3Denhance = 0, 0, 0, 0, C
+clsParticle = 0, 0, 0, 0, C
+clsFire = 0, 0, 0, 0, C
+clsSmoke = 0, 0, 0, 0, C
+clsSnow = 0, 0, 0, 0, C
