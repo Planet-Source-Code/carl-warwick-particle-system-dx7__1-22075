@@ -1,0 +1,41 @@
+'===========================================================
+' Title:        Particle System
+'
+' Name:         Carl Warwick
+'
+' E-mail:       CC006740@ntu.ac.uk
+'
+' Company:      Black Edge Designs
+'
+' Website:      www.freeridedesign.cjb.net
+'
+' Date:         1st April 2001
+'===========================================================
+
+This is a simple program that uses my D3D for 2D module to render
+3 different types of particle systems onto a 2D screen.
+
+The 3 particle systems are:-
+  Fire
+  Snow
+  Smoke
+
+There are many improvements that you could make, but I just
+knocked this code up in an hour because I don't have access to
+VC++ at the moment, and I really wanted to do some particle
+system coding.
+
+This code could be used in a 3D environment, all your have to
+do is add a Z componant to the clsParticle Class.
+
+Have a look at it anyway, and if you like it then use it in
+something, or modify to suit your own needs, all I ask is that
+you E-mail me a copy (or demo) of the project that you use this
+in.
+
+
+Thanks
+
+Carl Warwick
+
+Black Edge Games
